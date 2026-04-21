@@ -8,8 +8,9 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
-type,Type,
+identifier,Source Identifier,
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+material, Material
+pattern, Pattern
+design, Design
